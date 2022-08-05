@@ -1,0 +1,5 @@
+package com.algaworks.algalog.springalgalogapi.domain.model;
+
+public class Cliente {
+
+}

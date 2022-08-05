@@ -1,0 +1,5 @@
+package com.algaworks.algalog.springalgalogapi.controller;
+
+public class ClienteController {
+
+}
